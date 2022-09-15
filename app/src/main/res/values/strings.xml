@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TurismoViajes</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>San Andres</item>
+        <item>Santa Marta</item>
+        <item>Cartagena</item>
+    </string-array>
+</resources>
